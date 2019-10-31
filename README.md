@@ -13,5 +13,5 @@ Entrada ([{}]) -> Saída 0
 Entrada ({) -> Saída 1
 
 ## Como usar
-Pelo CMD navege ate o diretorio aonde baixou o arquivo "Etapa2.jar"  e use o comando java -jar Etapa2.jar, e siga os passos do programa.
+Pelo CMD navege ate o diretorio aonde baixou o arquivo "Etapa2.jar"  e use o comando java "-jar Etapa2.jar", e siga os passos do programa.
 .
